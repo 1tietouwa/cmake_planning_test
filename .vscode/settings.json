@@ -1,0 +1,7 @@
+{
+    "accessibility.signals.sounds.volume": 0,
+    "files.associations": {
+        "*.txt": "cpp",
+        "iostream": "cpp"
+    }
+}
